@@ -1,1 +1,1 @@
-create table(id integer PRIMARY KEY 
+create table users(id integer PRIMARY KEY 
