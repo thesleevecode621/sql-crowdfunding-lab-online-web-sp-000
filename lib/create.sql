@@ -1,1 +1,1 @@
-create table id integer primary key
+create table id integer 
